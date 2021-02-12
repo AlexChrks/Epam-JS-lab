@@ -1,0 +1,29 @@
+{
+  "name": "lesson2",
+  "version": "0.0.1",
+  "description": "Cowsay application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexChrks/Epam-JS-lab.git"
+  },
+  "keywords": [
+    "cowsay",
+    "js",
+    "node"
+  ],
+  "author": "Alexey Cherkas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexChrks/Epam-JS-lab/issues"
+  },
+  "homepage": "https://github.com/AlexChrks/Epam-JS-lab#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "request": "^2.88.2"
+  }
+}
